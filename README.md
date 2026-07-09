@@ -26,7 +26,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone the repository or download the project files.
 2. Navigate to the project root directory:
    ```bash
-   cd PassGen
+   cd yourPath
    ```
 3. Install the dependencies:
    ```bash
